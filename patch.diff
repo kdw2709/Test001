@@ -1,0 +1,26 @@
+From 5313875fc385a648aad02d14b5a2697ecb7927c0 Mon Sep 17 00:00:00 2001
+From: kdw2709 <kdw2709@naver.com>
+Date: Wed, 3 Oct 2018 23:25:56 +0900
+Subject: [PATCH] Revert "Revert "Revert "Revert "XXX add""""
+
+This reverts commit 878f5604b47a8dffb4cc90c5010398bdcc8e51bb.
+---
+ readme.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/readme.txt b/readme.txt
+index fc80f3a..4c5b688 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,4 +1,5 @@
+ aa
+ bb
+ ccc
+-dddd
+\ No newline at end of file
++dddd
++XXX
+\ No newline at end of file
+-- 
+2.19.0.windows.1
+
